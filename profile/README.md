@@ -16,4 +16,13 @@ CosmicGlue.
 An Apache-2.0 toolkit for publishing static Sparkle appcasts and deriving
 privacy-conscious download metrics from CDN logs.
 
+### [Policygen](https://github.com/cosmicglue-io/policygen)
+
+A config-driven generator for privacy policies and terms of service, with HTML
+and Astro output.
+
+### [Axtra](https://github.com/cosmicglue-io/axtra)
+
+Opinionated Rust helpers for building web applications with Axum and Astro.
+
 [cosmicglue.io](https://cosmicglue.io)
